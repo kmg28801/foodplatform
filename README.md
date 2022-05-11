@@ -11,7 +11,6 @@ Web
         . Spring WebFlux(Reactive Web)
         . Spring Actuator
         . Spring Circuit Breaker(Resillence4J)
-
     - Spring Batch
     - Spring Data JPA
     - Spring Security
@@ -32,4 +31,6 @@ UI
 
 서버 및 배포 환경
      - AWS EC2(Linux)
+     
+     
 
